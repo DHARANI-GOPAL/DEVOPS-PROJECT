@@ -430,6 +430,7 @@ public class health
             System.out.println("\nReturn to MAIN MENU Press 1");
 
             status = input.nextInt();
+            System.out.println("DHARANI");
         }
     }
 }
